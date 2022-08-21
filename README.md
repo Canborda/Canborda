@@ -42,7 +42,7 @@ My work includes mainly three areas of interest:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular icon" width="30" height="30"/> 
-  <img src="../Canborda/assets/django-icon.png" alt="django icon" height="30"/> 
+  <img src="./assets/django-icon.png" alt="django icon" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap icon" width="30" height="30"/> 
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud icon" width="30" height="30"/> 
@@ -63,11 +63,11 @@ My work includes mainly three areas of interest:
 #### Robotics
 <div id="robotics_icons">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros icon" height="50"/> 
-  <img src="../Canborda/assets/RobotStudio-icon.png" alt="robot studio icon" height="50"/> 
+  <img src="./assets/RobotStudio-icon.png" alt="robot studio icon" height="50"/> 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu icon" width="30" height="30"/> 
-  <img src="../Canborda/assets/rtb-icon.png" alt="robotics toolbox icon" height="30"/> 
-  <img src="../Canborda/assets/CoppeliaSim-icon.png" alt="coppelia sim icon" height="30"/> 
+  <img src="./assets/rtb-icon.png" alt="robotics toolbox icon" height="30"/> 
+  <img src="./assets/CoppeliaSim-icon.png" alt="coppelia sim icon" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino icon" width="30" height="30"/> 
 </div>
