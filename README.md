@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 # 👤 About Me
 
-I am a Mechatronics Engineering student and work as a backend developer.
+I am a Mechatronics Engineering student.
+I also work as a backend developer.
 
 Everything here is done for academic or research purposes.
 
