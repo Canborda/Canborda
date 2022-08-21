@@ -42,12 +42,14 @@ My work includes mainly three areas of interest:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular icon" width="30" height="30"/> 
+  <img src="../Canborda/assets/django-icon.png" alt="django icon" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap icon" width="30" height="30"/> 
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku icon" width="30" height="30"/> 
   <img src="./assets/postman-icon.svg" alt="postman icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm icon" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git icon" width="30" height="30"/> 
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoft sql server icon" width="30" height="30"/> 
@@ -59,9 +61,13 @@ My work includes mainly three areas of interest:
 </div>
 
 #### Robotics
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros icon" height="50"/>
 <div id="robotics_icons">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros icon" height="50"/> 
+  <img src="../Canborda/assets/RobotStudio-icon.png" alt="robot studio icon" height="50"/> 
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu icon" width="30" height="30"/> 
+  <img src="../Canborda/assets/rtb-icon.png" alt="robotics toolbox icon" height="30"/> 
+  <img src="../Canborda/assets/CoppeliaSim-icon.png" alt="coppelia sim icon" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino icon" width="30" height="30"/> 
 </div>
