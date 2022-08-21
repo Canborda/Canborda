@@ -24,15 +24,32 @@ I also work as a backend developer.
 
 Everything here is done for academic or research purposes.
 
+## 🤖 🌱 💻 🚜 📕 🌾 🌐 👨‍🌾 🦾
+
 My work includes mainly three areas of interest:
   - Web developement
   - Robotics
   - Artificial Intelligence
-
-## 🤖 🌱 💻 🚜 📕 🌾 🌐 👨‍🌾 🦾 
+... and what I try is to implement all mechatronics and programming knowledge into agricultural applications!
 
 ---
 # ⚙️ Currently Working On
+
+<details>
+  <summary>Image-based potato classification to implement on the output from a potato washer (...)</summary>
+    :link: <a href="https://github.com/Canborda/tuber-selection">go to repository</a>
+    
+    :warning: Add content here :warning:
+</details>
+
+<details>
+  <summary>Web app for epidemiology analysis on rice crops using Google Earth Engine products (...)</summary>
+    :link: <a href="https://github.com/Canborda/Epidemiology-in-rice-backend">go to repository (Back-end)</a> <br>
+    :link: <a href="https://github.com/Canborda/Epidemiology-in-rice-frontend">go to repository (Front-end)</a> <br>
+    To test the site go to the <a href="https://epidemiology-in-rice-frontend.herokuapp.com/">staging page</a>
+    
+    :warning: Add content here :warning:
+</details>
 
 ---
 # 👨‍💻 Languages, Technologies
