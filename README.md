@@ -46,6 +46,7 @@ My work includes mainly three areas of interest:
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku icon" width="30" height="30"/> 
+  <img src="./assets/postman-icon.svg" alt="postman icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm icon" width="30" height="30"/> 
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb icon" width="30" height="30"/> 
@@ -58,6 +59,7 @@ My work includes mainly three areas of interest:
 </div>
 
 #### Robotics
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros icon" height="50"/>
 <div id="robotics_icons">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu icon" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab icon" width="30" height="30"/> 
