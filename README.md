@@ -30,6 +30,7 @@ My work includes mainly three areas of interest:
   - Web developement
   - Robotics
   - Artificial Intelligence
+
 ... and what I try is to implement all mechatronics and programming knowledge into agricultural applications!
 
 ---
